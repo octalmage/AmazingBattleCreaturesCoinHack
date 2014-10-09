@@ -1,0 +1,9 @@
+Package: gs.stallin.jason.abchack
+Name: Amazing Battle Creatures Coin Hack
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Watch a free coin video and you'll get 99,999,999 coins.
+Maintainer: Jason Stallings
+Author: Jason Stallings
+Section: Tweaks
